@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "baseName": "votvot",
+    "packageName": "com.votvot",
+    "packageFolder": "com/votvot",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "3f5a9c4b275e260673b19bfc9b4c6ba4eef22d45"
+  }
+}
